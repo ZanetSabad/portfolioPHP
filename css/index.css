@@ -1,0 +1,48 @@
+header {
+    width: 100vw;
+    height: 50vh;
+    background-image: linear-gradient(black, rgba(0, 0, 0, 0.8)), url(../img/never_stop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+header h1{
+    font-size: 30px;
+    color: aliceblue;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+header h2{
+    font-size: 40px;
+    color: aliceblue;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+header p{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: #D93636;
+}
+
+img{
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 60%);
+}
