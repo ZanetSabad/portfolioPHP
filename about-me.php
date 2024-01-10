@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/general.css">
     <link rel="stylesheet" href="css/about-me.css">
     <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/footer.css">
     <title>Portfolio Žaneta Sabadková</title>
 </head>
 <body>

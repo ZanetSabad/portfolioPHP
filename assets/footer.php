@@ -1,3 +1,3 @@
 <footer>
-    &copy; Portfolio 2024, Žaneta Sabadková 
+    <p>&copy; Portfolio 2024, Žaneta Sabadková</p> 
 </footer>
