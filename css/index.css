@@ -1,9 +1,9 @@
 header {
     width: 100vw;
-    height: 50vh;
-    background-image: linear-gradient(black, rgba(0, 0, 0, 0.8)), url(../img/never_stop.jpg);
+    height: 60vh;
+    background-image: linear-gradient(black, rgba(0, 0, 0, 0.6)), url(../img/never_stop.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 150%;
     background-position: center;
 
     display: flex;
@@ -34,7 +34,7 @@ header p{
 
 main{
     width: 100vw;
-    height: 100vh;
+    height: 50vh;
     background-color: #D93636;
 }
 
