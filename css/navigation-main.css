@@ -1,10 +1,6 @@
-header{
-    background-color: #D93636;
-}
-
 nav{
     text-align: center;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 nav li{
@@ -18,4 +14,3 @@ nav li a{
     text-decoration: none;
     text-transform: uppercase;
 }
-
