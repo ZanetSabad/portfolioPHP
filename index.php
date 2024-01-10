@@ -17,9 +17,9 @@
     
     <main>       
         
-    <nav>
+    
        <?php require "assets/navigation-main.php" ?>
-    </nav>
+    
         <img src="img/my_foto.jpg" alt="my foto">
     </main>
 </body>
