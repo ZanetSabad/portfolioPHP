@@ -6,13 +6,14 @@
     <link rel="stylesheet" href="css/general.css">
     <link rel="stylesheet" href="css/navigation.css">
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/portfolio.css">
     <title>Portfolio</title>
 </head>
 <body>
     <?php require "assets/navigation.php" ?>
 
     <main>
-        <a href="https://my-portfolio-one-page.vercel.app/"><img src="" alt=""></a>
+        <a href="https://my-portfolio-one-page.vercel.app/"><img src="img/portfolio_mui.png" alt=""></a>
         
     </main>
 
