@@ -1,0 +1,24 @@
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: #D93636;
+}
+
+
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-image: linear-gradient(black, rgba(0, 0, 0, 0.6)), url(../img/never_stop.jpg);
+}
+
+@keyframes fromTop{
+    0%{
+        
+        transform: translateY(0px);
+    }
+
+    100%{
+        transform: translateY(1000px);
+    }
+}
