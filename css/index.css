@@ -1,6 +1,6 @@
 header {
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
     background-image: linear-gradient(black, rgba(0, 0, 0, 0.6)), url(../img/never_stop.jpg);
     background-repeat: no-repeat;
     background-size: 100% 150%;
