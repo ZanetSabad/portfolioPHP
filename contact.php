@@ -16,7 +16,7 @@
     <div class="contact">
                     <div class="phoneNumber"> 
                         <a href="tel:+420724831189">
-                            <img class= "phone" src="IMG/phone.png" 
+                            <img class= "phone" src="img/icons/phone.png" 
                         alt="telefonní číslo">
                     </a>
                     <br>
@@ -27,7 +27,7 @@
                     </div>
 
                     <div class="email"> 
-                        <a href="mailto:zaneta.sabadkova@gmail.com"><img class= "mail" src="IMG/mail.png" 
+                        <a href="mailto:zaneta.sabadkova@gmail.com"><img class= "mail" src="img/icons/mail.png" 
                         alt="Email"></a>
                         
                         <div class="text_mail"> 
