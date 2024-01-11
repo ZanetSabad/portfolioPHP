@@ -13,19 +13,6 @@
 <body>
     <?php require "assets/navigation.php" ?>
     <main>        
-             
-               
-              
-                <!-- <div class="download">
-                    <a href="documenty/Zaneta_Sabadkova_CV.pdf" download="Zaneta_Sabadkova_CV.pdf">Stáhnout životopis</a>
-                </div>
-                <div class="media">                    
-                    <a href="https://www.linkedin.com/in/žaneta-sabadková-56542b213/" target="_blank"><img src="IMG/icons/linkedin.png" alt="odkaz na Linkedin"> </a>
-                </div> -->
-                 
-        
-      
-
         <section class="curiculum col span-3-of-4">
             <article class="work col span-1-of-2">
                     <aside class="textCV kurz">
