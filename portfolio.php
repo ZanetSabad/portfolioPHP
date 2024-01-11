@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/general.css">
-    <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/portfolio.css">
     <title>Portfolio</title>
 </head>
 <body>
-    <?php require "assets/navigation.php" ?>
+    <?php require "assets/header.php" ?>
 
     <main>
         <section class="preview">
@@ -30,7 +30,7 @@
             <div class="flip-box">
                 <div class="flip-box-inner">
                     <div class="front">
-                            <img src="img/Contact.png" alt="kontaktní formulář">
+                            <img src="img/contact.png" alt="kontaktní formulář">
                             <p class="title-front">Kontaktní formulář</p></a>
                     </div>
                     <div class="back">
@@ -54,7 +54,7 @@
             <div class="flip-box">
                 <div class="flip-box-inner">
                     <div class="front">            
-                            <img src="img/portfolioHTML.png" alt="portfolio html">
+                            <img src="img/portfolio-html.png" alt="portfolio html">
                             <p class="title-front">Portfolio v HTML</p>
                     </div>
                     <div class="back">

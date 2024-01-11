@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/general.css">
     <link rel="stylesheet" href="css/about-me.css">
-    <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
     <title>Portfolio Žaneta Sabadková</title>
 </head>
 <body>
  
-    <?php require "assets/navigation.php"; ?>
+    <?php require "assets/header.php"; ?>
    
     <main>
         <h1>O mně</h1>

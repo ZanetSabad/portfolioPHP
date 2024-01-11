@@ -32,6 +32,11 @@ header p{
     color: aliceblue;
 }
 
+.warning{
+    color:red;
+    margin-top: 30px;
+}
+
 main{
     width: 100vw;
     height: 50vh;
